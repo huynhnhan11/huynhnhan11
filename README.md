@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @huynhnhan11
-- 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Computer Science at University of Information Technology (UIT)
 - 😄 Pronouns: he/him
 
